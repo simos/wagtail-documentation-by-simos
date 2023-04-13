@@ -16,16 +16,24 @@ The CMS market is currently rather saturated. Most new Wagtail users are likely 
 
 Wagtail is currently developer-centric. You need to be a software developer (Python) to be able to work with Wagtail.
 
-I consider knowing Python as a prerequisite to working with Wagtail. As long as there are no reusable components yet, the guides should be upfront about the requirement.
+I consider knowing Python as a prerequisite to working with Wagtail. As long as there are no reusable components yet, the guides should be upfront about the requirement. 
 
 Then, there are two groups of new Wagtail users.
 
 1. Those that are familiar with Django.
-2. Those that are familiar with Python but not with Django.
+2. Those that are familiar with Python but not yet with Django.
 
-How important is it to learn some things first about Django (_Django, for prospective Wagtail users_)?
+How important is it to learn some things first about Django (_Django, for prospective Wagtail users_)? There should be Wagtail documentation that helps new users get a good understanding of using Django. Either point to specific Django documentation or host it's own Django documentation for Wagtail users. 
+
+## Strategy
+
+The short-term strategy is to
+
+1. Demonstrate the benefits of using Wagtail.
+2. Get the motivated new users to follow the Getting Started Guide
+
+The [bakery demo](https://github.com/wagtail/bakerydemo) is a good example of a beautiful creation with Wagtail. 
 
 ## Links
-
 
 [Awesome wagtail](https://github.com/springload/awesome-wagtail)
